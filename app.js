@@ -34,6 +34,7 @@ class Usuario {
 
 let usuario1 = new Usuario("Milton", "Martinez")
 
+
 console.log(usuario1.getFullName())
 
 // AGREGANDO MASCOTAS AL ARRAY
